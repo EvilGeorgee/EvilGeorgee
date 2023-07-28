@@ -1,1 +1,1 @@
-- 🤖 Hi, learning Python, now creating minecraft bot
+- 🤖 Hi!
